@@ -21,13 +21,13 @@ print(#str)
 
 print(math.pi)
 print (math.random(1))
-Tamar
+
 print(math.min(10, 1 ,50, 12, 19, 22, 48))
 
 print(math.floor(3,14159)
 
 local age 18
-Tamar
+
 if age > 17 then
 Tamar
 print("you may enter")
